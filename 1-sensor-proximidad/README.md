@@ -1,6 +1,4 @@
-# Electiva de Robotica
-
-## 1. Sensor de Proximidad
+# Sensor de Proximidad
 
 ### Descripción
 
