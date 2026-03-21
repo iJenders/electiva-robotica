@@ -26,3 +26,8 @@ En este proyecto se implementa un sistema de monitoreo de nivel de agua en un ta
 | 1        | 160 Ω Resistencia                             |
 | 1        | Basado en PCF8574, 39 (0x27) LCD 16 x 2 (I2C) |
 | 1        |  Piezo                                        |
+
+## Integrantes
+
+- Jenderson Abarca
+- Reimil Azuaje
